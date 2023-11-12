@@ -1,6 +1,6 @@
-Recipes-Website
+RECIPES WEBSITE
 
-HTML website for showcasing recipes
+HTML Website For Showcasing Recipes
 
 Live site: https://dayas-kr-coder.github.io/odin-recipes/
 
